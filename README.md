@@ -2,13 +2,14 @@
 
 ## Algorithms Implemented
 - FCFS
-- SJF
-- SJF (Preemptive)
+- SJF (Non-Preemptive)
+- SJF (Preemptive / SRTF)
 - Round Robin
 
 ## Features
-- Gantt Chart
-- Waiting Time & Turnaround Time
+- Gantt Chart Visualization
+- Waiting Time Calculation
+- Turnaround Time Calculation
 - Algorithm Comparison
 
 ## Tech Used
